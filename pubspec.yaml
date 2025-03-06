@@ -18,3 +18,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Orbitron
+      fonts:
+        - asset: fonts/Oswald-Bold.ttf
+        - asset: fonts/Oswald-Regular.ttf
+        - asset: fonts/Oswald-Light.ttf
+          weight: 700
