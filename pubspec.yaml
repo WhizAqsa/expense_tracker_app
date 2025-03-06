@@ -9,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  introduction_screen: ^3.1.17  #added this
 
 dev_dependencies:
   flutter_test:
