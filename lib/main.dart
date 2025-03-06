@@ -19,7 +19,7 @@ class MainApp extends StatelessWidget {
             fontSize: 28.0,
             fontWeight: FontWeight.bold,
             color: Color.fromARGB(255, 213, 204, 230),
-            fontFamily: 'Oswald',
+            fontFamily: 'Oswald', // Use the Oswald font
           ),
           bodyMedium: TextStyle(
             fontSize: 16.0,
