@@ -4,7 +4,7 @@ class IntroScreen extends StatelessWidget {
   const IntroScreen({super.key});
 
   @override
-  Widget build(BuildContext) {
+  Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
         child: Column(
