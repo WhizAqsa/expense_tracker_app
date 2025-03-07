@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'screens/intro_screen.dart'; // Import your new screen file
+//import 'screens/intro_screen.dart';
+import 'screens/home_screen.dart';
 
 void main() {
   runApp(const MainApp());
@@ -28,7 +29,7 @@ class MainApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const IntroScreen(), // Use the separate intro screen
+      home: const HomeScreen(),
     );
   }
 }
